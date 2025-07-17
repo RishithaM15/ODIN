@@ -1,4 +1,6 @@
 # ODIN
+![image](https://github.com/user-attachments/assets/7a6c4068-aa30-43bb-8757-75a2ebcd984e)
+
 ⸻
 
 OMHH Analysis Notebook
